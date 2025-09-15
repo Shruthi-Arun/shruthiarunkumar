@@ -9,3 +9,6 @@ Welcome to my personal portfolio showcasing my work in **Data Science**, **Block
 ## Contact:
 - Email: [shruthi](mailto:shruthiarun235@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shruthiarunkumar)
+
+## Portfolio:
+You can view my full portfolio here: [shruthi-arun.github.io](https://shruthi-arun.github.io/shruthiarunkumar/)
